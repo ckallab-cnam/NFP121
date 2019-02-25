@@ -1,24 +1,29 @@
-# Travaux pratique et complément NFP121 au Cnam Liban
+# Portail, Compléments, exercices des cours et Travaux pratique : NFP121 Cnam Liban
 
-Ces TP sont issues des TP du Cnam Paris http://jfop.cnam.fr/NFP121 et adapté au cours des centres d'enseignement de l'[ISSAE Cnam Liban](http://www.cnam-liban.fr)
-Les supports de cours adaptés sont disponibles dans les 'classrooms' de vos enseignants http://classroom.isae.edu.lb
+## Avertissements
 
+Pour suivre avec profit cette UE il faut suivre régulièrement le cours (séances de compléments, présentation du TP de la semaine, et séances TD et rendre régulièrement des travaux hebdomadaires (TP). En fonction des centres vous aurez soit 2 séances de 3h ou 3 séances de 2h par semaines répartis 11 semaines pour un total de 60h de présentiel. 
 
-L'activité de programmation étant primordiale dans ce cours, les TD seront des TP/TD comportant :
+Les documents associés aux cours du Cnam Liban (au format PDF et sur github), sont accessibles sur le net au fur et à mesure du déroulement du cours. Le cours parisien de l'années 2018-2019 est déjà disponible ici : [http://jfod.cnam.fr](http://jfod.cnam.fr) 
 
-* une partie de spécification d'un exercice (en séance au cnam)
+L'activité de programmation étant primordiale dans ce cours, les TD seront des TP/TD. Amener vos ordinateurs portable avec vous:
+
+* une partie de spécification d'un exercice (en séance présentielle)
 * une partie de réalisation d'un exercice (sur machine "à la maison").
-* Le travail réalisé sera rendu chaque semaine au moyen de github contenant: 
-    * un projet Java (le code source)
-    * une page html de compte rendu du travail réalisé. contenant entre autre le résultat de vos executions et tests
+* Le travail "TP en autonome" réalisé sera rendu chaque semaine sur le web sous deux formes. 
+    * un projet Java qui sera testé automatiquement
+    * une page html (ou markdown) de compte rendu du travail réalisé.
 
-# ![Pré requis](/assets/images/prerequis.png) Pré requis
+Pour participer à ces TP il faut d'abord vous identifier par votre nom précédé de LIB_ (en CAPITALES de préférence exemple LIB_PASCAL) et votre numéro d'inscription d'auditeur Cnam Liban (qui vous servira de password, matricule, et vous identifiera pour les points de bonus), en l'absence de ce numéro un mot de passe de votre choix : [Faite dès maintenant la préinscription aux TP](/NFP121/preInscription/)
 
-1. Avoir un compte github (un utilisateur avec votre email @isae.edu.lb et le nom utilisateur NOM_PRENOM_IDCNAM)
-2. faire un fork de ce projet https://github.com/ISSAE/NFP121 , vous obtiendrez un clone qui vous appartiendra. Les travaux future se feront dans votre propre projet cloné.
-3. Les instructions vous seront donné sous forme de devoir dans la classroom http://classroom.isae.edu.lb 
+Les TP seront réalisés avec [BlueJ](http://www.bluej.org/)  la dernière version inclut le JDK (1.8), vous trouverez [ici : préparer l'environnement](https://issae.github.io/NFP121/TP/tp0/) des indications sur l'environnement de travail et pour cette Ue
 
-# Liste des TP
-* [TP0 : préparer l'environnement de travail](tp0/)
-* [TP1](tp1/tp1.html)
-* [TP2](tp2/tp2.html)
+<hr />
+
+## > [Les séances](Seances/)
+## > [Les ED/TP assisté](ED/)
+## > [Travaux pratique en autonome](TP/)
+## > [Les compléments](Complements/)
+## > [Sources des exemples vue en cours](Exemples/)
+
+
